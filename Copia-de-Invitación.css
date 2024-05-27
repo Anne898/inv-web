@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/1.png");
+  background-image: url("images/1.gif");
   background-position: 50% 50%;
 }
 
@@ -38,14 +38,14 @@
     margin-bottom: 0;
   }
 } .u-section-2 {
-  background-image: url("images/2.png");
+  background-image: url("images/2.gif");
   background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
   min-height: 793px;
 } .u-section-3 {
-  background-image: url("images/3.png");
+  background-image: url("images/3.gif");
   background-position: 50% 50%;
 }
 
