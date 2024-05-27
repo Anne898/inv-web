@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/13.png");
+  background-image: url("images/1.png");
   background-position: 50% 50%;
 }
 
@@ -38,14 +38,14 @@
     margin-bottom: 0;
   }
 } .u-section-2 {
-  background-image: url("images/21.png");
+  background-image: url("images/2.png");
   background-position: 50% 50%;
 }
 
 .u-section-2 .u-sheet-1 {
   min-height: 793px;
 } .u-section-3 {
-  background-image: url("images/GreenWhiteGoldElegantWeddingInvitationInstagramReelsVideo.png");
+  background-image: url("images/3.png");
   background-position: 50% 50%;
 }
 
@@ -239,7 +239,7 @@
     font-size: 0.75rem;
   }
 } .u-section-4 {
-  background-image: url("images/4.png");
+  background-image: url("images/41.png");
   background-position: 50% 50%;
 }
 
@@ -265,11 +265,14 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-btn-1 {
-    margin-top: 617px;
+    margin-top: 644px;
   }
 
   .u-section-4 .u-btn-2 {
-    margin-top: 37px;
+    font-size: 0.75rem;
+    margin-top: 34px;
     margin-bottom: 60px;
+    padding-right: 18px;
+    padding-left: 18px;
   }
 }
